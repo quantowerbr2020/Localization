@@ -53,4 +53,4 @@ msgid "Group"
 msgstr "Grupo"
 
 msgid "SortIndex"
-msgstr "SortIndex"
+msgstr "Ordenar Índice"
